@@ -1,4 +1,4 @@
-<!-- #Sample_website README markdown page -->
+<!--Sample_website README markdown page -->
 
 This is a sample website created by Ajen as part of the learning of *Learn Enough™ HTML to Be Dangerous*.
 
